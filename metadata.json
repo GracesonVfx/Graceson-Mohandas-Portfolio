@@ -1,0 +1,5 @@
+{
+  "name": "Fast Fluid Reveal",
+  "description": "High-performance WebGL fluid simulation with rapid dissipation for a snappy, interactive reveal effect.",
+  "requestFramePermissions": []
+}
