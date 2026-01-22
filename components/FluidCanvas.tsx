@@ -447,7 +447,7 @@ const FluidCanvas: React.FC = () => {
     // Unit 3: Overlay Depth
     loadTexture("/Assests/rdj_depthmap.jpeg", 3);
     // Unit 4: BG Color
-    loadTexture("/Assests/Ironmansuit.png", 4);
+    loadTexture("https://i.ibb.co/tpshN65M/Ironmansuit.png", 4);
     // Unit 5: BG Depth
     loadTexture("/Assests/ironmansuit_depth.png", 5);
 
